@@ -47,7 +47,7 @@ Evidência 3:
 Olá! Esta imagem Docker foi criada na aula de Integração e Entrega Contínua@M41S4 ➜ /workspaces/demonstracao_docker (main)
 
 Evidência 4:
-
+![imagem](img1.png)
 
 
 **Outras perguntas:**
