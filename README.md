@@ -35,7 +35,6 @@ aula-mysql        mysql:8.4           "docker-entrypoint.s…"   mysql        2 
 aula-phpmyadmin   phpmyadmin:latest   "/docker-entrypoint.…"   phpmyadmin   2 hours ago   Up 15 seconds   0.0.0.0:8080->80/tcp, [::]:8080->80/tcp
 
 
-![Texto Alternativo](img1.png)
 
 
 @M41S4 ➜ /workspaces/demonstracao_docker (main) $ docker run --rm aula-docker:1.0
